@@ -1,0 +1,20 @@
+u#John Paul Ringo#1234 Liverpool Lane#(123)456-7890#rutlesf4@applecor.com#12/22/1940#f
+g#Justin Mike Edge#5678 Birmingham Beat#07/23/1945#(234)567-8901#days4gon@threshol.dmb#m#t
+f#Ray Thomas#9101 Appian Way#(345)678-9012#rthomas1@hopeswis.edu#2513 Music Centre#999999.99#05/19/1965#Professor of Musicology#by appointment only
+s#Brooms Tick#1121 Dustpan Alley#Custodial Engineer#(456)789-0123#Clean234@sweepems.org#876 Boiler Room#032486.02#10/10/2001#Harry Mudd
+s#Vacu Ums Weeper#3141 Dustpan Alley#Custodial Services Manager#(567)890-1234#cleanMGR@sweepems.org#768 Boiler Room#056575.55#07/12/1998#Harry Mudd
+f#Harry Chapin#5768 Taxicab Lane#(678)901-2345#cats1cra@silversp.oon#873 Music Center#876554.99#11/11/1968#Professor of Popular Poetry#drop in anytime
+g#Cat Stevens#987 Rue de la Blvd#01/01/1973#(789)012-3456#catnomor@fatheran.son#d#r
+u#Paul Revere#542 Raiders Road#(890)123-4567#songs111@pratrsss.edu#02/25/1983#f
+u#John Guttenheimer#1234 Maple#(456)321-7890#a1m4xyzz@applecor.com#12/23/1972#f
+g#Justin Time#5678 Ridgeway#07/24/1945#(235)569-8920#days22go@threshol.dmb#m#t
+f#Randy Thomas#9101 Apple Dr.#(346)679-8012#rthomas2@hopeswis.edu#2514 Music Centre#089999.99#04/17/1965#Professor of Modern History#10a.m. M R
+s#Broom Stick#1123 Dustpan Alley#Custodial Engineer#(456)789-0124#Clean235@sweepems.org#877 Boiler Room#032487.00#10/11/2001#Harry Mudd
+s#Vacu Weeps#3142 Dustpan Alley#Custodial Services Assistant#(567)890-1235#clean444@sweepems.org#769 Boiler Room#056576.55#07/13/1998#Harry Mudd
+f#Harry True Man#5768 Shomey Lane#(678)901-2346#pres3412@silversp.oon#873 Music Centre#976554.99#10/11/1968#Professor of Buck Stopping#almost never
+g#Cats Cradle#987 Rue de la Blvde#01/01/1974#(789)012-3457#crad3456@fatheran.son#d#r
+u#Sam Adams#543 T. Party Road#(890)123-4578#bharbor9@pratrsss.edu#02/24/1983#f
+s#Tom Bombadil#11292 Old Forest, Middle Earth#Professor of Engineering#(810)347-2151#tolkiens@gmailaol.com#AB-3200#60000#05/08/2008#Bob Brown
+f#Ben Shaeffer#11293 Sheridan rd Flint MI 48451#(989)418-7912#dailynew@gmailaol.com#AB-3200#85000#04/08/2008#Professor of Conservation#Monday 9 am to 10 am
+u#Deborah Hairy#11287 Avenue A, New York City#(989)418-7912#blondeye@musiclpv.com#11/04/1997#j
+g#Deborah Reynolds#Los Angeles Home for SWM#04/17/1990#(989)418-7912#LeiasMom@starwars.com#d#r

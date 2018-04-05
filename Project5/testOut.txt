@@ -1,0 +1,68 @@
+# Construct set 5
+Set 5 has been constructed.
+# Set 5 is empty
+Set 5 is empty.
+# Set 5 has size 0
+Set 5 is 0 elements long.
+# add the following values to set 5: 1 3 8 9 3
+{1,3,8,9}
+# Set 5 has size 4
+Set 5 is 4 elements long.
+# Set 5 = {1, 3, 8, 9} in some order
+{1,3,8,9}
+# Remove value 2 from set 5
+# Set 5 = {1, 3, 8, 9} in some order
+{1,3,8,9}
+# Remove value 8 from set 5
+# Set 5 = {1, 3, 9} in some order
+{1,3,9}
+# Set 5 does not have the value 8
+8 is not a part of set 5
+# Set 5 does have the value 3
+3 is a part of set 5
+# Make set 5 empty
+Set 5 has been emptied.
+# Set 5 is empty
+Set 5 is empty.
+# Set 5 does not have the value 3
+3 is not a part of set 5
+# print the empty set 5
+{}
+# remove 17 from set 5 (cannot, set 5 is empty)
+# Test union, intersection, and set difference
+# make set 10 with values 2,4,6,8,10,12,14,16,18,20
+# Make set 50 with values 3, 6, 9, 12, 15, 18, 21
+# Set 99 is the union of sets 10 and 50
+# Set 99 = {2, 3, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21}
+{3,9,15,21,2,4,6,8,10,12,14,16,18,20}
+# Set 71 is the intersection of sets 10 and 50
+# Set 71 = {6, 12, 18}
+{6,12,18}
+# Set 42 is the set difference set10 - set50
+# Set 42 = {2, 4, 8, 10, 14, 16, 20}
+{2,4,8,10,14,16,20}
+# Test attempting commands on null sets
+# cannot test set 13 for emptiness, it is null
+Set 13 does not exist!
+# cannot add to null set 13
+No set to add value to!
+# cannot remove from null set 13
+No set to remove value from!
+# cannot find size of null set 13
+Set 13 does not exist, it has no size.
+# cannot make null set 13 empty
+Cannot empty set 13 that doesn't exsit!
+# cannot find value 2 in null set 13
+No set in which to find value.
+# cannot take union if one or more sets is null
+Cannot join a nonexistent set!
+Cannot join a nonexistent set!
+Cannot join a nonexistent set!
+# cannot take intersection if one or more sets is null
+Cannot intersect a nonexistent set!
+Cannot intersect a nonexistent set!
+Cannot intersect a nonexistent set!
+# cannot take set difference if one or more sets is null
+Cannot find difference a nonexistent set!
+Cannot find difference a nonexistent set!
+Cannot find difference a nonexistent set!

@@ -1,0 +1,961 @@
+Project 6
+Joseph Maples, Computing & Algorithms CS 101-02
+The next group of outlines is an echo print of the input file
+
+u#Joe#1093 Emerald Forest Ln#(810)936-1589#mapl3133@kettering.edu#03/12/1999#r
+g#John#1095 Emerald ForestLn#04/11/1999#(810)936-1589#john@kettering.edu#m#t
+f#Aaron#123 Avian Avenu, Miami FL 56732#(810)936-1589#aaron@kettering.edu#543 Main Building#123548.53#03/11/1998#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Kyle#1091 Emerald Forest Ln# Worker# (810)936-1589#kyle@kettering.edu#Main building# 22563.32#05/10/1997# harry
+s#Michael#1099 Emerald Forest Ln# Worker# (810)936-1589#michael@kettering.edu#Main building# 2256.32#04/10/1997# harry
+u#Jake#1093 Emerald Forest Ln#(810)936-1589#jake@kettering.edu#02/16/2000#r
+g#Andrew#1096 Emerald ForestLn#03/11/1999#(810)936-1589#andrew@kettering.edu#m#t
+f#Dave#124 Avian Avenu, Miami FL 56732#(810)936-1589#dave@kettering.edu#543 Main Building#123548.53#03/30/1989#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Morgan#1097 Emerald Forest Ln# Worker# (810)936-1589#morgan@kettering.edu#Main building#22563.32#10/01/1999# harry
+s#Mike#1098 Emerald Forest Ln# Worker# (810)936-1589#michael@kettering.edu#Main building#2256.32#02/10/2000# harry
+u#Jordan#1193 Emerald Forest Ln#(810)936-1589#jordan@kettering.edu#03/12/1989#r
+g#Jon#1195 Emerald ForestLn#04/11/1999#(810)936-1589#jon@kettering.edu#d#t
+f#Erin#125 Avian Avenu, Miami FL 56732#(810)936-1589#erin@kettering.edu#543 Main Building#123548.53#03/11/1988#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Kial#1191 Emerald Forest Ln# Worker# (810)936-1589#kial@kettering.edu#Main building# 122563.32#05/10/1987# harry
+s#Matt#1199 Emerald Forest Ln# Worker# (810)936-1589#matt@kettering.edu#Main building# 32256.32#04/10/1987# harry
+u#Jack#1193 Emerald Forest Ln#(810)936-1589#jack@kettering.edu#02/16/2000#r
+g#Andy#1196 Emerald ForestLn#03/11/1999#(810)936-1589#andy@kettering.edu#m#t
+f#Darell#126 Avian Avenu, Miami FL 56732#(810)936-1589#darell@kettering.edu#543 Main Building#123548.53#03/30/1979#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Ethan#1197 Emerald Forest Ln# Worker# (810)936-1589#ethan@kettering.edu#Main building#222563.32#10/01/1989# harry
+s#Randall#1198 Emerald Forest Ln# Worker# (810)936-1589#randy@kettering.edu#Main building#42256.32#02/10/2001# harry
+u#Jordyn#1293 Emerald Forest Ln#(810)936-1589#jordyn@kettering.edu#03/12/1989#r
+g#Jonathan#1295 Emerald ForestLn#04/11/1999#(810)936-1589#jon@kettering.edu#m#t
+f#Eric#127 Avian Avenu, Miami FL 56732#(810)936-1589#eric@kettering.edu#543 Main Building#1423548.53#03/11/1998#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Kylie#1291 Emerald Forest Ln# Worker# (810)936-1589#kylie@kettering.edu#Main building# 422563.32#05/10/1987# harry
+s#Matthew#1299 Emerald Forest Ln# Worker# (810)936-1589#matt@kettering.edu#Main building# 256.32#04/10/1987# harry
+u#Jacob#1293 Emerald Forest Ln#(810)936-1589#jacob@kettering.edu#02/16/2003#r
+g#Anderson#1296 Emerald ForestLn#03/11/1989#(810)936-1589#anderson@kettering.edu#m#t
+f#Darnell#128 Avian Avenu, Miami FL 56732#(810)936-1589#darnell@kettering.edu#543 Main Building#123548.53#03/30/1989#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Alex#1297 Emerald Forest Ln# Worker# (810)936-1589#alex@kettering.edu#Main building#242563.32#10/01/1999# harry
+s#Randy#1298 Emerald Forest Ln# Worker# (810)936-1589#randy@kettering.edu#Main building#256.32#02/13/2000# harry
+u#Jef#1393 Emerald Forest Ln#(810)936-1589#minamejef@kettering.edu#03/12/1999#r
+g#Johnathan#1395 Emerald ForestLn#04/11/1979#(810)936-1589#jon@kettering.edu#m#t
+f#Erica#135 Avian Avenu, Miami FL 56732#(810)936-1589#erica@kettering.edu#543 Main Building#123548.53#03/11/1978#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Clancy#1391 Emerald Forest Ln# Worker# (810)936-1589#clancy@kettering.edu#Main building# 22563.32#05/10/1977# harry
+s#Sean#1399 Emerald Forest Ln# Worker# (810)936-1589#sean@kettering.edu#Main building# 4256.32#04/10/1977# harry
+u#Lucas#1393 Emerald Forest Ln#(810)936-1589#lucas@kettering.edu#02/16/2000#r
+g#Nate#1396 Emerald ForestLn#03/11/1998#(810)936-1589#nate@kettering.edu#m#t
+f#Tom#136 Avian Avenu, Miami FL 56732#(810)936-1589#tom@kettering.edu#543 Main Building#123548.53#03/30/1989#Associate Professor of Flight Engineering#Saturdays midnight til 1 a.m
+s#Alexandra#1397 Emerald Forest Ln# Worker# (810)936-1589#alex@kettering.edu#Main building#42563.32#10/01/1979# harry
+s#Rand#1398 Emerald Forest Ln# Worker# (810)936-1589#rand@kettering.edu#Main building#2254.32#02/10/2002# harry
+
+Entire database, sorted by name
+Faculty
+	name: Aaron
+	address: 123 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: aaron@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1998
+	office hours: Saturdays midnight til 1 a.m
+
+Staff
+	name: Alex
+	address: 1297 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $242,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Staff
+	name: Alexandra
+	address: 1397 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,563.32
+	hiring date: October 1, 1979
+	supervisor:  harry
+
+Graduate student
+	name: Anderson
+	address: 1296 Emerald ForestLn
+	phone number: (810)936-1589
+	email: anderson@kettering.edu
+	birth date: March 11, 1989
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Andrew
+	address: 1096 Emerald ForestLn
+	phone number: (810)936-1589
+	email: andrew@kettering.edu
+	birth date: March 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Andy
+	address: 1196 Emerald ForestLn
+	phone number: (810)936-1589
+	email: andy@kettering.edu
+	birth date: March 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Staff
+	name: Clancy
+	address: 1391 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: clancy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1977
+	supervisor:  harry
+
+Faculty
+	name: Darell
+	address: 126 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: darell@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1979
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Darnell
+	address: 128 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: darnell@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Dave
+	address: 124 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: dave@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Eric
+	address: 127 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: eric@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $1,423,548.53
+	hiring date: March 11, 1998
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Erica
+	address: 135 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: erica@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1978
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Erin
+	address: 125 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: erin@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1988
+	office hours: Saturdays midnight til 1 a.m
+
+Staff
+	name: Ethan
+	address: 1197 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: ethan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $222,563.32
+	hiring date: October 1, 1989
+	supervisor:  harry
+
+Undergraduate Student
+	name: Jack
+	address: 1193 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: jack@kettering.edu
+	birth date: February 16, 2000
+	status: senior
+
+Undergraduate Student
+	name: Jacob
+	address: 1293 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: jacob@kettering.edu
+	birth date: February 16, 2003
+	status: senior
+
+Undergraduate Student
+	name: Jake
+	address: 1093 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: jake@kettering.edu
+	birth date: February 16, 2000
+	status: senior
+
+Undergraduate Student
+	name: Jef
+	address: 1393 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: minamejef@kettering.edu
+	birth date: March 12, 1999
+	status: senior
+
+Undergraduate Student
+	name: Joe
+	address: 1093 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: mapl3133@kettering.edu
+	birth date: March 12, 1999
+	status: senior
+
+Graduate student
+	name: John
+	address: 1095 Emerald ForestLn
+	phone number: (810)936-1589
+	email: john@kettering.edu
+	birth date: April 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Johnathan
+	address: 1395 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1979
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Jon
+	address: 1195 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1999
+	status: doctorate
+	assistantship type: teaching
+
+Graduate student
+	name: Jonathan
+	address: 1295 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Undergraduate Student
+	name: Jordan
+	address: 1193 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: jordan@kettering.edu
+	birth date: March 12, 1989
+	status: senior
+
+Undergraduate Student
+	name: Jordyn
+	address: 1293 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: jordyn@kettering.edu
+	birth date: March 12, 1989
+	status: senior
+
+Staff
+	name: Kial
+	address: 1191 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kial@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $122,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Kyle
+	address: 1091 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kyle@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Kylie
+	address: 1291 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kylie@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $422,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Undergraduate Student
+	name: Lucas
+	address: 1393 Emerald Forest Ln
+	phone number: (810)936-1589
+	email: lucas@kettering.edu
+	birth date: February 16, 2000
+	status: senior
+
+Staff
+	name: Matt
+	address: 1199 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $32,256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Matthew
+	address: 1299 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Michael
+	address: 1099 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: April 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Mike
+	address: 1098 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: February 10, 2000
+	supervisor:  harry
+
+Staff
+	name: Morgan
+	address: 1097 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: morgan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Graduate student
+	name: Nate
+	address: 1396 Emerald ForestLn
+	phone number: (810)936-1589
+	email: nate@kettering.edu
+	birth date: March 11, 1998
+	status: masters
+	assistantship type: teaching
+
+Staff
+	name: Rand
+	address: 1398 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: rand@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,254.32
+	hiring date: February 10, 2002
+	supervisor:  harry
+
+Staff
+	name: Randall
+	address: 1198 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,256.32
+	hiring date: February 10, 2001
+	supervisor:  harry
+
+Staff
+	name: Randy
+	address: 1298 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: February 13, 2000
+	supervisor:  harry
+
+Staff
+	name: Sean
+	address: 1399 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: sean@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $4,256.32
+	hiring date: April 10, 1977
+	supervisor:  harry
+
+Faculty
+	name: Tom
+	address: 136 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: tom@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Entire staff, sorted by date
+Staff
+	name: Sean
+	address: 1399 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: sean@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $4,256.32
+	hiring date: April 10, 1977
+	supervisor:  harry
+
+Staff
+	name: Clancy
+	address: 1391 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: clancy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1977
+	supervisor:  harry
+
+Staff
+	name: Alexandra
+	address: 1397 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,563.32
+	hiring date: October 1, 1979
+	supervisor:  harry
+
+Staff
+	name: Matt
+	address: 1199 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $32,256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Matthew
+	address: 1299 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Kial
+	address: 1191 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kial@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $122,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Kylie
+	address: 1291 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kylie@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $422,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Ethan
+	address: 1197 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: ethan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $222,563.32
+	hiring date: October 1, 1989
+	supervisor:  harry
+
+Staff
+	name: Michael
+	address: 1099 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: April 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Kyle
+	address: 1091 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kyle@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Morgan
+	address: 1097 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: morgan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Staff
+	name: Alex
+	address: 1297 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $242,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Staff
+	name: Mike
+	address: 1098 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: February 10, 2000
+	supervisor:  harry
+
+Staff
+	name: Randy
+	address: 1298 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: February 13, 2000
+	supervisor:  harry
+
+Staff
+	name: Randall
+	address: 1198 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,256.32
+	hiring date: February 10, 2001
+	supervisor:  harry
+
+Staff
+	name: Rand
+	address: 1398 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: rand@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,254.32
+	hiring date: February 10, 2002
+	supervisor:  harry
+
+Every Employee, sorted by salary
+Staff
+	name: Matthew
+	address: 1299 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Randy
+	address: 1298 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $256.32
+	hiring date: February 13, 2000
+	supervisor:  harry
+
+Staff
+	name: Rand
+	address: 1398 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: rand@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,254.32
+	hiring date: February 10, 2002
+	supervisor:  harry
+
+Staff
+	name: Michael
+	address: 1099 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: April 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Mike
+	address: 1098 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: michael@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $2,256.32
+	hiring date: February 10, 2000
+	supervisor:  harry
+
+Staff
+	name: Sean
+	address: 1399 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: sean@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $4,256.32
+	hiring date: April 10, 1977
+	supervisor:  harry
+
+Staff
+	name: Kyle
+	address: 1091 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kyle@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1997
+	supervisor:  harry
+
+Staff
+	name: Morgan
+	address: 1097 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: morgan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Staff
+	name: Clancy
+	address: 1391 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: clancy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $22,563.32
+	hiring date: May 10, 1977
+	supervisor:  harry
+
+Staff
+	name: Matt
+	address: 1199 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: matt@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $32,256.32
+	hiring date: April 10, 1987
+	supervisor:  harry
+
+Staff
+	name: Randall
+	address: 1198 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: randy@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,256.32
+	hiring date: February 10, 2001
+	supervisor:  harry
+
+Staff
+	name: Alexandra
+	address: 1397 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $42,563.32
+	hiring date: October 1, 1979
+	supervisor:  harry
+
+Staff
+	name: Kial
+	address: 1191 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kial@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $122,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Faculty
+	name: Darell
+	address: 126 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: darell@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1979
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Erin
+	address: 125 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: erin@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1988
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Aaron
+	address: 123 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: aaron@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1998
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Tom
+	address: 136 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: tom@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Dave
+	address: 124 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: dave@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Darnell
+	address: 128 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: darnell@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 30, 1989
+	office hours: Saturdays midnight til 1 a.m
+
+Faculty
+	name: Erica
+	address: 135 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: erica@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $123,548.53
+	hiring date: March 11, 1978
+	office hours: Saturdays midnight til 1 a.m
+
+Staff
+	name: Ethan
+	address: 1197 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: ethan@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $222,563.32
+	hiring date: October 1, 1989
+	supervisor:  harry
+
+Staff
+	name: Alex
+	address: 1297 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: alex@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $242,563.32
+	hiring date: October 1, 1999
+	supervisor:  harry
+
+Staff
+	name: Kylie
+	address: 1291 Emerald Forest Ln
+	phone number:  (810)936-1589
+	email: kylie@kettering.edu
+	title:  Worker
+	office: Main building
+	salary: $422,563.32
+	hiring date: May 10, 1987
+	supervisor:  harry
+
+Faculty
+	name: Eric
+	address: 127 Avian Avenu, Miami FL 56732
+	phone number: (810)936-1589
+	email: eric@kettering.edu
+	title: Associate Professor of Flight Engineering
+	office: 543 Main Building
+	salary: $1,423,548.53
+	hiring date: March 11, 1998
+	office hours: Saturdays midnight til 1 a.m
+
+Every Graduate student, sorted by address
+Graduate student
+	name: John
+	address: 1095 Emerald ForestLn
+	phone number: (810)936-1589
+	email: john@kettering.edu
+	birth date: April 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Andrew
+	address: 1096 Emerald ForestLn
+	phone number: (810)936-1589
+	email: andrew@kettering.edu
+	birth date: March 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Jon
+	address: 1195 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1999
+	status: doctorate
+	assistantship type: teaching
+
+Graduate student
+	name: Andy
+	address: 1196 Emerald ForestLn
+	phone number: (810)936-1589
+	email: andy@kettering.edu
+	birth date: March 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Jonathan
+	address: 1295 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1999
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Anderson
+	address: 1296 Emerald ForestLn
+	phone number: (810)936-1589
+	email: anderson@kettering.edu
+	birth date: March 11, 1989
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Johnathan
+	address: 1395 Emerald ForestLn
+	phone number: (810)936-1589
+	email: jon@kettering.edu
+	birth date: April 11, 1979
+	status: masters
+	assistantship type: teaching
+
+Graduate student
+	name: Nate
+	address: 1396 Emerald ForestLn
+	phone number: (810)936-1589
+	email: nate@kettering.edu
+	birth date: March 11, 1998
+	status: masters
+	assistantship type: teaching
+
